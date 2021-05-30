@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amin Pesaran
 - 👀 I’m interested in energy management systems 
 - 🌱 I’m currently learning sequential decision making methods
-- 💞️ I’m looking to collaborate on Optimization and decision making algorithms
+- 💞️ I’m looking to collaborate on optimization and decision making algorithms
 - 📫 Please send me E-mail: amin.pesaran.behbahani@gmail.com
 
 <!---
